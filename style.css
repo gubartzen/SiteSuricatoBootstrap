@@ -1,0 +1,53 @@
+header{
+    background-color: yellow;
+    height: 200px;
+}
+
+main{
+    background-color: violet;
+    height: 800px;
+}
+
+aside{
+    background-color: darkmagenta;
+    height: 800px;
+}
+
+footer{
+    background-color: tomato;
+    height: 100px;
+}
+
+nav{
+    height: 115px;
+    font-size: x-large;
+    background-color: brown;
+}
+
+.pt{
+    padding-top: 70px;
+}
+
+.ml{
+    margin-left: 120px;
+}
+
+.ml0{
+    margin-left: 30px;
+}
+
+aside p{
+    font-size: smaller;
+}
+
+.col-lg-4-teste{
+    height: 295px;
+}
+
+.footer{
+    padding-left: 200px;
+}
+
+.card p{
+    font-size: smaller;
+}
